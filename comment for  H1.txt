@@ -1,0 +1,7 @@
+The code has good logic, but lacks proper comments.
+
+1. (-0) 
+2. (-0)
+3. (-0)
+4. (4.3 -2) Please describe what do you see using markdown or annotation in the figure.
+5. (-0)
